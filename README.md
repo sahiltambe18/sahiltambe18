@@ -1,7 +1,7 @@
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
-<h1 align="center">Hi 👋, I'm Sahil</h1>
+<h1 align="center">Heyya 👋, I'm Sahil</h1>
 <h3 align="center">A Enthusiastic web developer from MH,India</h3>
 
 <img align="right" alt="coding" width="400"
