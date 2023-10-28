@@ -75,7 +75,7 @@
 
   <div style="flex: 1 1 calc(50% - 0.5rem); display: flex; flex-direction: column; gap: 1rem;">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=sahiltambe18&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
-    <a href="https://leetcode.com/sahil18_"><img align='center' src="https://leetcode-stats-six.vercel.app/api?username=sahiltambe81922" alt="LeetCode Stats" /></a>
+    <a href="https://leetcode.com/sahil18_"><img align='center' src="https://leetcode-stats-six.vercel.app/api?username=sahil18_" alt="LeetCode Stats" /></a>
     <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a> 
   </div>
 </div>
