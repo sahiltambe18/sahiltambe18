@@ -70,7 +70,7 @@
 <div style="display: flex; flex-wrap: wrap; gap: 1rem;">
   <div style="flex: 1 1 calc(50% - 0.5rem); display: flex; flex-direction: column; gap: 1rem;">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahiltambe18&show_icons=true&locale=en&layout=compact" alt="sahiltambe18" />
-    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sahiltambe18" alt="sahiltambe18" />
+    
   </div>
 
   <div style="flex: 1 1 calc(50% - 0.5rem); display: flex; flex-direction: column; gap: 1rem;">
