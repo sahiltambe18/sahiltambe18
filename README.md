@@ -78,6 +78,7 @@
     <a href="https://leetcode.com/sahil18_"><img align='center' src="https://leetcode-stats-six.vercel.app/api?username=sahil18_" alt="LeetCode Stats" /></a>
     <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a> 
   </div>
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=sahil18_&theme=dark&border=border" />
 </div>
 
 
