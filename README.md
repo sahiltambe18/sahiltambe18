@@ -1,46 +1,183 @@
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Sahil+%F0%9F%91%8B;Software+Engineer+%40+Integral;Building+Crypto+Custody+%26+Trading+Systems;Go+%7C+TypeScript+%7C+Distributed+Systems;Exploring+AI+Engineering+%F0%9F%A4%96" alt="Typing SVG" />
 
+<br/>
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          
-<h1 align="center">Heyya 👋, I'm Sahil</h1>
-<h3 align="center">A Enthusiastic web developer from MH,India</h3>
+[![Portfolio](https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-sahil18.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil-tambe-77b181230/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/sahil18_)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahiltambe81922@gmail.com)
 
+<img src="https://komarev.com/ghpvc/?username=sahiltambe18&style=for-the-badge&color=58A6FF" alt="Profile Views" />
 
-<h2 align="center">
-    <img src="https://profile-counter.glitch.me/sahiltambe18/count.svg?"  />
-</h2>
+</div>
 
-# 💫 About Me:
-🔭 I’m currently working on Next.js , ML<br>👯 I’m looking to collaborate on Nextjs  <br>🌱 I’m currently learning : Machine Learning<br>💬 Ask me about : Web Dev , ML , AI <br>⚡ Fun fact : I crashed an old Pc by running python loops
-<br>📫 How to reach me **sahiltambe81922@gmail.com**
-<br> here is my portfolio website https://portfolio-sahil18.vercel.app/
+---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sahiil_tambe_96k_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil-tambe-77b181230/) 
+## 🚀 About Me
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![Badge Name](https://img.shields.io/badge/tRPC-%232596BE.svg?style=plastic&logo=tRPC&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=plastic&logo=Prisma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=plastic&logo=radix-ui&logoColor=white) ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=plastic&logo=zod&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white)
+```go
+package main
 
+type Engineer struct {
+    Name     string
+    Role     string
+    Company  string
+    Location string
+    Focus    []string
+}
 
-<h2 align="center">      
-<a  href="https://leetcode.com/sahil18_"><img align='center' src="https://leetcode-stats-six.vercel.app/api?username=sahil18_" alt="LeetCode Stats" /></a>
-</h2>
-          
-<h1 align="center" >
-          
-![](https://github-readme-stats.vercel.app/api?username=sahiltambe18&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sahiltambe18&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahiltambe18&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</h1>
+func main() {
+    sahil := Engineer{
+        Name:     "Sahil Tambe",
+        Role:     "Software Engineer",
+        Company:  "Integral Development Corp.",
+        Location: "Bengaluru, India 🇮🇳",
+        Focus: []string{
+            "Crypto Custody & Trading Platforms",
+            "Exchange Integrations (Binance, Kraken, Coinbase...)",
+            "Auth & Identity (WebAuthn, Passkeys, JWT, HMAC)",
+            "Real-time Systems & WebSocket Architectures",
+        },
+    }
+    _ = sahil // shipping in production 🚢
+}
+```
 
+- 🔭 Currently building **crypto custody & trading infrastructure** — Go microservices, exchange integrations, and real-time balance monitoring
+- 🌱 Learning **AI Engineering** — LangChain, LangGraph, RAG pipelines & vector databases
+- 🧩 **700+ DSA problems** solved across platforms
+- 👨‍🏫 Previously led **GDSC Web Dev** initiatives
+- ⚡ Fun fact: I once crashed an old PC by running Python loops 💀
 
-<h1 align="center">
-          
-![](https://github-contributor-stats.vercel.app/api?username=sahiltambe18&limit=5&theme=dark&combine_all_yearly_contributions=true)
+---
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=sahil18_&theme=dark&border=border" />
+## 🛠️ Tech Stack
 
-</h1>
+### Languages
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Hasura](https://img.shields.io/badge/Hasura-1EB4D4?style=for-the-badge&logo=hasura&logoColor=white)
+![Kong](https://img.shields.io/badge/Kong_Gateway-003459?style=for-the-badge&logo=kong&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593d88?style=for-the-badge&logo=redux&logoColor=white)
+![MUI](https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Databases & Caching
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+
+### AI / ML
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+
+---
+
+## 💼 What I Work With Daily
+
+| Domain | Stack |
+|---|---|
+| 🏦 **Crypto Custody Platform** | Go · Node.js · PostgreSQL · Hasura · Kong |
+| 🔐 **Auth & Identity** | Ory Kratos · WebAuthn/Passkeys · JWT · HMAC |
+| 📡 **Exchange Integrations** | CCXT · WebSocket streams · Binance · Kraken · Coinbase |
+| ⚡ **Real-time Systems** | DragonflyDB · Polling/WS hybrid architectures |
+| 🎨 **Frontend** | React · Next.js · TypeScript · MUI DataGrid |
+
+---
+
+## 📌 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 [pdf-Buddy](https://github.com/sahiltambe18/pdf-Buddy)
+Chat with your PDFs — RAG-powered document Q&A built with TypeScript.
+
+</td>
+<td width="50%">
+
+### 🎨 [portfolio-gen](https://github.com/sahiltambe18/portfolio-gen)
+Generate beautiful developer portfolios in minutes.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📚 [interview-prep](https://github.com/sahiltambe18/interview-prep)
+Curated notes & resources for SDE interview preparation.
+
+</td>
+<td width="50%">
+
+### ⚔️ [DSA_F](https://github.com/sahiltambe18/DSA_F)
+700+ solved DSA problems — patterns, solutions & notes in C++.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sahiltambe18&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahiltambe18&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahiltambe18&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahiltambe18&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+
+</div>
+
+---
+
+## 🏆 LeetCode
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/sahil18_?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Open to collaborating on Go, fintech infra & AI engineering projects
+
+**"Code is read more often than it is written — make it count."**
+
+⭐ From [sahiltambe18](https://github.com/sahiltambe18)
+
+</div>
